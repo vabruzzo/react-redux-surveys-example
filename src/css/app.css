@@ -1,0 +1,12 @@
+/**
+ * This is not a deeply though out approach to
+ * styling for this app. I am keen on CSS Modules.
+ */
+
+@import 'components/base.css';
+@import 'components/signIn.css';
+@import 'components/addSurvey.css';
+@import 'components/question.css';
+@import 'components/surveysList.css';
+@import 'components/response.css';
+@import 'components/footer.css';

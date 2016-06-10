@@ -1,0 +1,11 @@
+{
+  "extends": "airbnb",
+  "rules": {
+    "max-len": [1, 100, 2, { ignoreComments: true }],
+    "global-require": 0,
+    "no-unused-expressions": [0, { "allowTernary": true }],
+    "no-unused-vars": 1,
+    "react/prefer-stateless-function": 1,
+    "react/no-did-mount-set-state": 1,
+  }
+}
